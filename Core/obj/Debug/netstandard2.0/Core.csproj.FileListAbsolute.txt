@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
