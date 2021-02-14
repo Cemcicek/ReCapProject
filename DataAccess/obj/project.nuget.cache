@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEoKtli4ZujuerHul64pLm66RrElaBIcIUz0KThXaq30p2y0Sdx+xFuVu4OEc2frWDfnJx6vvupQ68LGVwfIuQ==",
+  "dgSpecHash": "QcBrLULqR5Bn5uQYc46v6fR/c4obDusppoUHfRXb8jn0Fbne1xIkYt6S4AZBnHLh606KR1t5Dq+0l56QWyBCVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

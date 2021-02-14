@@ -5765,11 +5765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5785,8 +5785,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj"
+            "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj"
             }
           }
         }

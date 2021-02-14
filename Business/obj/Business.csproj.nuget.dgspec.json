@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj": {}
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj": {
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj": {
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,11 +145,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj"
+              "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Entities\\Entities.csproj"
+              "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Entities\\Entities.csproj": {
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,8 +227,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj"
+              "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj"
               }
             }
           }

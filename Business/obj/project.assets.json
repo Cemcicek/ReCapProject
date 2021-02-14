@@ -6262,11 +6262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6282,8 +6282,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\DataAccess\\DataAccess.csproj"
             }
           }
         }

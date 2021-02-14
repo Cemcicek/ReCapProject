@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zeq0kk4kJ4PmJoo4JS8lLw4hxEy9oVMHgnAnfocXWONqIvzZ62UmNc86gDcHYEJgweQsQJ8fCLy9EgyXcmdYig==",
+  "dgSpecHash": "Cjyyu6hRfLoGyZp8Mzd1//zOASavpASzXmtNF+hBohLyGgMX6BlFjYerECGYDtBnviaTWJ84Fj4o5VeQNDOn5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
