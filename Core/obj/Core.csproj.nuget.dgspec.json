@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj": {}
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj": {
+    "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\re-cap-project-with-csharp-main\\Core\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\C# Yazılımcı\\ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,22 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.11, )"

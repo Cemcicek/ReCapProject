@@ -10,3 +10,15 @@ C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Entities\obj\Debug\netstanda
 C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Entities\bin\Debug\netstandard2.0\Core.dll
 C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Entities\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\PC\Desktop\re-cap-project-with-csharp-main\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\PC\Desktop\C# Yazılımcı\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
