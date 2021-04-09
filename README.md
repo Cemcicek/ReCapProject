@@ -15,7 +15,7 @@ Araç kiralama projesinin Backend kısmıdır. Wep API destekli çalışır. Bus
 <h3><strong>Kullanılan Front-End Teknolojileri</strong></h3>
 <ul>
   <li>Angular</li></ul>
-https://github.com/Cemcicek/ReCapProject-frontend ' kısmından inceleyebilirsiniz.
+https://github.com/Cemcicek/ReCapProject-Frontend--master ' kısmından inceleyebilirsiniz.
 </ul>
 <hr>
 <h3><strong>Proje Bilgileri</strong></h3>
