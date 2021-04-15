@@ -10,6 +10,8 @@ Araç kiralama projesinin Backend kısmıdır. Wep API destekli çalışır. Bus
   <li>Autofac</li>
   <li>Fluent Validation</li>
   <li>Attribute, Autofac Interceptors</li>
+  <li>LINQ</li>
+  <li>WebApi</li>
 </ul>
 <hr>
 <h3><strong>Kullanılan Front-End Teknolojileri</strong></h3>
