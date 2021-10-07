@@ -20,6 +20,6 @@ Araç kiralama projesinin Backend kısmıdır. Wep API destekli çalışır. Bus
 <li><a href="https://github.com/Cemcicek/ReCapProject-Frontend--master">ReCapProject-Frontend--master</a>' kısmından inceleyebilirsiniz</li>
 </ul>
 <hr>
-<h3><strong>Proje Bilgileri</strong></h3>
-[](https://choosealicense.com/licenses/mit/)
+<h3><strong>Proje Bilgileri</strong></h3></ br>
+
 
