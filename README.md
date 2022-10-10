@@ -3,7 +3,6 @@ Araç kiralama projesinin Backend kısmıdır. Wep API destekli çalışır. Bus
 <br><h3><strong>Kullanılan Back-End Teknolojileri</strong></h3>
 <ul>
   <li>Katmanlı Mimari</li>
-  <li>.Net Core 3.1 Web Api</li>
   <li>Entity Framework Core</li>
   <li>Repository Design Pattern</li>
   <li>Json Web Token</li>
